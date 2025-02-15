@@ -37,13 +37,16 @@ This project was created as part of a practical exercise to:
 
 ## **Installation**
 
-1. Click the Code button and scan the dropdown for the Download ZIP button.
+1. Clone or download the repository: 
+``` git clone https://github.com/yourusername/ParkingLotManagementSystem.git ```
 
-2. Download the ZIP file by clicking the Download ZIP button.
+2. Open the project folder in Visual Studio Code or your preferred IDE.
 
-3. Extract the ZIP file in your File Explorer or any preferred file organizer app.
+3. Compile the Java program using:
+```javac Parked.java```
 
-4. Open the extracted ZIP file and run the executable file to start the program!
+4. Run the program using:
+```java Parked```
    
 ---
 
